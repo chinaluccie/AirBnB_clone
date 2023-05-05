@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 		Airbnb clone
 
 First phase of building a full web application "The AirBnB"
@@ -20,4 +20,4 @@ In this project, we want to manage the following objects:
 
 =======
 # AirBnB_clone
->>>>>>> c274fd21353713aa6b9aa65cce9ac2ae99527d17
+
